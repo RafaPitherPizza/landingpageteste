@@ -1,0 +1,1992 @@
+@media (max-width: 1500px) {
+}
+
+@media (max-width: 1400px){
+    .bluesect p{
+        font-size: 40px;
+        width: 500px;
+    }
+    
+}
+
+@media (max-width: 1300px){
+    .bluesect p{
+        width: 500px;
+    }
+}
+
+@media (max-width: 1200px){
+    .navbar {
+        font-size: 18px;
+    }
+
+    .navbar ul{
+        gap: 15px;
+        margin-right: -20px;
+        margin-top: 0;
+    }
+
+    .navbar button{
+        font-size: 18px;
+        width: 140px;
+        height: 40px;
+        margin-right: 45px;
+        margin-left: -25px;
+    }
+
+    #logolimpo {
+        width: 50px;
+        height: 50px;
+        margin-left: 0px;
+    }
+
+    .downdrop {
+        width: 150px;
+        position: absolute;
+        opacity: 1;
+        background-color: #5597FA;
+        margin-right: -40px;
+        color: #FFFFFF;
+        border: 2px solid #FFFFFF;
+        text-align: center;
+        margin-top: 10px;
+        transform: translateY(20px);
+        max-height: 300px;
+        display: none;
+        justify-content: center;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .downdrop p{
+        padding-bottom: 15px;
+        padding-top: 15px;
+        transform: translateX(-45px);
+        width: 140px;
+        margin-left: 5px;
+    }
+    
+    .downdrop hr{
+        width: 140px;
+        margin-left: -5px;
+        border: 1px solid #ffffff;
+        transform: translateX(-35.5px);
+    }
+
+    .centerdrop {
+        margin-left: -10px;
+    }
+
+    .bluesect p{
+        font-size: 35px;
+        width: 450px;
+    }
+}
+
+@media (max-width: 1100px){
+    .navbar {
+        font-size: 18px;
+    }
+
+    .navbar ul{
+        gap: 15px;
+        margin-right: -20px;
+        margin-top: 0;
+    }
+
+    .navbar button{
+        font-size: 18px;
+        width: 140px;
+        height: 40px;
+        margin-right: 45px;
+        margin-left: -25px;
+    }
+
+    #logolimpo {
+        width: 50px;
+        height: 50px;
+        margin-left: 0px;
+    }
+
+    .downdrop {
+        width: 150px;
+        position: absolute;
+        opacity: 1;
+        background-color: #5597FA;
+        margin-right: -40px;
+        color: #FFFFFF;
+        border: 2px solid #FFFFFF;
+        text-align: center;
+        margin-top: 10px;
+        transform: translateY(20px);
+        max-height: 300px;
+        display: none;
+        justify-content: center;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .downdrop p{
+        padding-bottom: 15px;
+        padding-top: 15px;
+        transform: translateX(-45px);
+        width: 140px;
+        margin-left: 5px;
+    }
+    
+    .downdrop hr{
+        width: 140px;
+        margin-left: -5px;
+        border: 1px solid #ffffff;
+        transform: translateX(-35.5px);
+    }
+
+    .centerdrop {
+        margin-left: -10px;
+    }
+
+    .bluesect p{
+        font-size: 30px;
+        width: 400px;
+    }
+    
+    #servcards {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        gap: 50px;
+    }
+    
+    #servcards div{
+        width: 304px;
+        height: 299px;
+        border: 2px solid #5597FA;
+        box-shadow: 0px 0px 30px rgb(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+    
+    #servcards h1{
+        font-size: 24px;
+        color: #5597FA;
+    }
+    
+    #servcards p{
+        font-size: 14px;
+        width: 200px;
+        height: 95px;
+        text-align: center;
+    }
+    
+    #servcards div:hover{
+        width: 324px;
+        height: 303px;
+        box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+}
+
+@media (max-width: 1000px) {
+    .navbar {
+        font-size: 18px;
+    }
+
+    .navbar ul{
+        gap: 15px;
+        margin-right: -20px;
+        margin-top: 0;
+    }
+
+    .navbar button{
+        font-size: 14px;
+        width: 120px;
+        height: 25px;
+        margin-right: 45px;
+        margin-left: -25px;
+    }
+
+    #logolimpo {
+        width: 50px;
+        height: 50px;
+        margin-left: 0px;
+    }
+
+    .downdrop {
+        width: 150px;
+        position: absolute;
+        opacity: 1;
+        background-color: #5597FA;
+        margin-right: -40px;
+        color: #FFFFFF;
+        border: 2px solid #FFFFFF;
+        text-align: center;
+        margin-top: 10px;
+        transform: translateY(20px);
+        max-height: 300px;
+        display: none;
+        justify-content: center;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .downdrop p{
+        padding-bottom: 15px;
+        padding-top: 15px;
+        transform: translateX(-45px);
+        width: 140px;
+        margin-left: 5px;
+    }
+    
+    .downdrop hr{
+        width: 140px;
+        margin-left: -5px;
+        border: 1px solid #ffffff;
+        transform: translateX(-35.5px);
+    }
+
+    .centerdrop {
+        margin-left: -10px;
+    }
+
+    #maocelular{
+        opacity: 0;
+        width: 0px;
+    }
+
+    #barrazul strong{
+        font-size: 24px;
+    }
+
+    #missao {
+        width: 1000px;
+    }
+
+    #missao h1{
+        font-size: 27px;
+    }
+
+    #missao p{
+        font-size: 14px;
+        width: 200px;
+    }
+
+    #missao img{
+        width: 280px;
+        margin-right: 60px;
+        margin-left: 60px;
+    }
+
+    #quatro {
+        background-color: #FFFFFF;
+        height: 629.5px;
+        font-family: Inter;
+        margin-top: 300px;
+    }
+
+    #quatro p{
+        display: inline-block;
+    }
+    
+    #fotogrupo {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        font-size: 17px;
+        gap: -580px;
+        margin-top: -50px;
+    }
+    
+    #fotogrupo p{
+        width: 400px;
+    }
+    
+    #fotogrupo img {
+        width: 400px;
+        height: 250px;
+        border-radius: 5px;
+        margin-bottom: 50px;
+    }
+
+    #cinco {
+        background-color: #FFFFFF;
+        height: 652px;
+        font-family: Inter;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 600px;
+    }
+    
+    #servicos {
+        color: #5597FA;
+        text-align: center;
+        margin-bottom: 73px;
+    }
+    
+    #servcards {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        gap: 120px;
+    }
+    
+    #servcards div{
+        width: 394px;
+        height: 323px;
+        border: 2px solid #5597FA;
+        box-shadow: 0px 0px 30px rgb(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+    
+    #servcards h1{
+        font-size: 24px;
+        color: #5597FA;
+    }
+    
+    #servcards p{
+        font-size: 14px;
+        width: 200px;
+        height: 95px;
+        text-align: center;
+    }
+    
+    #servcards div:hover{
+        width: 454px;
+        height: 373px;
+        margin-left: -100px;
+        margin-right: -100px;
+        margin-bottom: -10px;
+        margin-top: -10px;
+        box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+    #rodape {
+        height: 170px;
+        font-family: Archivo;
+        color: #ffffff;
+        background-color: #5597FA;
+        font-size: 17px;
+        margin-top: 500px;
+        height: 100%;
+    }
+    
+    #rodape h1{
+        margin-left: 33px;
+        padding-top: 20px;
+        margin-bottom: -20px;
+        font-size: 25px;
+    }
+    
+    #redes {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        font-family: Inter;
+        margin-left: -355px;
+        margin-top: 100px;
+    }
+    
+    #redes container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 270px;
+        gap: 130px;
+    }
+    
+    #redes container2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: -10px;
+        gap: 140px;
+    }
+    
+    #redes a {
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        flex-flow: column;
+        margin-right: 20px;
+        font-size: 20px;
+        color: #FFFFFF;
+        margin-top: -20px;
+        text-decoration: none;
+    }
+    
+    #redes i{
+        margin-right: 5px;
+    }
+
+    #numail {
+        margin-top: 70px;
+        margin-bottom: 40px;
+        margin-left: -50px;
+    }
+
+    #numail #email {
+        margin-left: -35px;
+        margin-top: -20px;
+    }
+    
+    .cnpjright {
+        margin-left: 21px;
+        color: #345e9c;
+        margin-top: 15px;
+        font-size: 13px;
+        margin-left: 20px;
+        width: 95%;
+        padding-bottom: 15px;
+    }
+}
+
+@media (max-width: 900px){
+    .navbar {
+        font-size: 18px;
+    }
+
+    .navbar ul{
+        gap: 15px;
+        margin-right: -20px;
+        margin-top: 0;
+    }
+
+    .navbar button{
+        font-size: 15px;
+        width: 100px;
+        height: 25px;
+        margin-right: 50px;
+    }
+
+    #logolimpo {
+        width: 50px;
+        height: 50px;
+        margin-left: 0px;
+    }
+
+    .botoes{
+        gap: 10px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .downdrop {
+        width: 150px;
+        position: absolute;
+        opacity: 1;
+        background-color: #5597FA;
+        margin-right: -40px;
+        color: #FFFFFF;
+        border: 2px solid #FFFFFF;
+        text-align: center;
+        margin-top: 10px;
+        transform: translateY(20px);
+        max-height: 300px;
+        display: none;
+        justify-content: center;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .downdrop p{
+        padding-bottom: 15px;
+        padding-top: 15px;
+        transform: translateX(-45px);
+        width: 140px;
+        margin-left: 5px;
+    }
+    
+    .downdrop hr{
+        width: 140px;
+        margin-left: -5px;
+        border: 1px solid #ffffff;
+        transform: translateX(-35.5px);
+    }
+
+    .centerdrop {
+        margin-left: -10px;
+    }
+
+    #barrazul strong{
+        font-size: 24px;
+    }
+
+    #missao {
+        width: 900px;
+    }
+
+    #missao h1{
+        font-size: 27px;
+    }
+
+    #missao p{
+        font-size: 14px;
+        width: 200px;
+    }
+
+    #missao img{
+        width: 280px;
+        margin-right: 60px;
+        margin-left: 60px;
+    }
+
+    #quatro {
+        background-color: #FFFFFF;
+        height: 629.5px;
+        font-family: Inter;
+        margin-top: 300px;
+    }
+
+    #quatro p{
+        display: inline-block;
+    }
+    
+    #fotogrupo {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        font-size: 17px;
+        gap: -580px;
+        margin-top: -50px;
+    }
+    
+    #fotogrupo p{
+        width: 400px;
+    }
+    
+    #fotogrupo img {
+        width: 400px;
+        height: 250px;
+        border-radius: 5px;
+        margin-bottom: 50px;
+    }
+
+    #cinco {
+        background-color: #FFFFFF;
+        height: 652px;
+        font-family: Inter;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 600px;
+    }
+    
+    #servicos {
+        color: #5597FA;
+        text-align: center;
+        margin-bottom: 73px;
+    }
+    
+    #servcards {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        gap: 120px;
+    }
+    
+    #servcards div{
+        width: 394px;
+        height: 323px;
+        border: 2px solid #5597FA;
+        box-shadow: 0px 0px 30px rgb(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+    
+    #servcards h1{
+        font-size: 24px;
+        color: #5597FA;
+    }
+    
+    #servcards p{
+        font-size: 14px;
+        width: 200px;
+        height: 95px;
+        text-align: center;
+    }
+    
+    #servcards div:hover{
+        width: 454px;
+        height: 373px;
+        margin-left: -100px;
+        margin-right: -100px;
+        margin-bottom: -10px;
+        margin-top: -10px;
+        box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+    #rodape {
+        height: 170px;
+        font-family: Archivo;
+        color: #ffffff;
+        background-color: #5597FA;
+        font-size: 17px;
+        margin-top: 500px;
+        height: 100%;
+    }
+    
+    #rodape h1{
+        margin-left: 33px;
+        padding-top: 20px;
+        margin-bottom: -20px;
+        font-size: 25px;
+    }
+    
+    #redes {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        font-family: Inter;
+        margin-left: -355px;
+        margin-top: 100px;
+    }
+    
+    #redes container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 270px;
+        gap: 130px;
+    }
+    
+    #redes container2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: -10px;
+        gap: 140px;
+    }
+    
+    #redes a {
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        flex-flow: column;
+        margin-right: 20px;
+        font-size: 20px;
+        color: #FFFFFF;
+        margin-top: -20px;
+        text-decoration: none;
+    }
+    
+    #redes i{
+        margin-right: 5px;
+    }
+
+    #numail {
+        margin-top: 70px;
+        margin-bottom: 40px;
+        margin-left: -50px;
+    }
+
+    #numail #email {
+        margin-left: -35px;
+        margin-top: -20px;
+    }
+    
+    .cnpjright {
+        margin-left: 21px;
+        color: #345e9c;
+        margin-top: 15px;
+        font-size: 13px;
+        margin-left: 20px;
+        width: 95%;
+        padding-bottom: 15px;
+    }
+}
+
+@media (max-width: 800px){
+    .navbar {
+        font-size: 16px;
+    }
+
+    .navbar ul{
+        gap: 15px;
+        margin-right: -20px;
+        margin-top: 5px;
+    }
+
+    .navbar button{
+        font-size: 14px;
+        width: 100px;
+        height: 25px;
+        margin-right: 50px;
+    }
+
+    #logolimpo {
+        width: 50px;
+        height: 50px;
+        margin-left: 0px;
+    }
+
+    .botoes{
+        gap: 10px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .downdrop {
+        width: 130px;
+        position: absolute;
+        opacity: 1;
+        background-color: #5597FA;
+        margin-right: -40px;
+        color: #FFFFFF;
+        border: 2px solid #FFFFFF;
+        text-align: center;
+        margin-top: 10px;
+        transform: translateY(20px);
+        max-height: 300px;
+        display: none;
+        justify-content: center;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .downdrop p{
+        padding-bottom: 15px;
+        padding-top: 15px;
+        transform: translateX(-45px);
+        width: 120px;
+        margin-left: 15px;
+    }
+    
+    .downdrop hr{
+        width: 120px;
+        margin-left: 5px;
+        border: 1px solid #ffffff;
+        transform: translateX(-35.5px);
+    }
+
+    .centerdrop {
+        margin-left: -10px;
+    }
+
+    .bluesect {
+        margin-left: -20px;
+    }
+
+    #estatisticas{
+        height: 600px;
+        width: 100%;
+    }
+
+    #barrazul {
+        flex-flow: column;
+        width: 100%;
+        height: 100%;
+
+    }
+
+    #barrazul div {
+        margin-left: 50px;
+    }
+
+    #barrazul i{
+        height: 50px;
+        font-size: 50px;
+        left: 130px;
+        margin-bottom: -40px;
+    }
+
+    #barrazul strong{
+        font-size: 22px;
+        margin-top: 30px;
+    }
+
+    .ri-group-fill {
+        transform: translateX(24px);
+    }
+
+    .ri-emotion-laugh-fill {
+        transform: translateX(-2px);
+    }
+
+    #curiosidades {
+        height: 800px;
+        margin-top: 100px;
+    }
+
+    #missao {
+        flex-flow: column;
+        width: 800px;
+        height: 1000px;
+        padding-top: 100px;
+        margin-top: -100px;
+    }
+
+    #missao *{
+        margin-left: 10px;
+    }
+
+    #missao div{
+        margin-top: 50px;
+    }
+
+    #missao p {
+        font-size: 17px;
+        margin-bottom: 50px;
+        width: 570px;
+        margin-left: -140px;
+    }
+
+    #equipe h1 {
+        color: #5597FA;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 35px;
+        padding-top: 73px;
+        padding-bottom: 115px;
+    }
+    
+    #quatro {
+        background-color: #FFFFFF;
+        height: 629.5px;
+        font-family: Inter;
+        margin-top: 300px;
+    }
+
+    #quatro p{
+        display: inline-block;
+    }
+    
+    #fotogrupo {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        font-size: 17px;
+        gap: -580px;
+        margin-top: -50px;
+    }
+    
+    #fotogrupo p{
+        width: 400px;
+    }
+    
+    #fotogrupo img {
+        width: 400px;
+        height: 250px;
+        border-radius: 5px;
+        margin-bottom: 50px;
+    }
+
+    #cinco {
+        background-color: #FFFFFF;
+        height: 652px;
+        font-family: Inter;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 600px;
+    }
+    
+    #servicos {
+        color: #5597FA;
+        text-align: center;
+        margin-bottom: 73px;
+    }
+    
+    #servcards {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        gap: 120px;
+    }
+    
+    #servcards div{
+        width: 254px;
+        height: 253px;
+        border: 2px solid #5597FA;
+        box-shadow: 0px 0px 30px rgb(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+    
+    #servcards h1{
+        font-size: 20px;
+        color: #5597FA;
+    }
+    
+    #servcards p{
+        font-size: 12px;
+        width: 200px;
+        height: 95px;
+        text-align: center;
+    }
+    
+    #servcards div:hover{
+        width: 274px;
+        height: 273px;
+        margin-left: -100px;
+        margin-right: -100px;
+        margin-bottom: -10px;
+        margin-top: -10px;
+        box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+    #rodape {
+        height: 170px;
+        font-family: Archivo;
+        color: #ffffff;
+        background-color: #5597FA;
+        font-size: 17px;
+        margin-top: 300px;
+        height: 100%;
+    }
+    
+    #rodape h1{
+        margin-left: 33px;
+        padding-top: 20px;
+        margin-bottom: -20px;
+        font-size: 25px;
+    }
+    
+    #redes {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        font-family: Inter;
+        margin-left: -240px;
+        margin-top: 100px;
+    }
+    
+    #redes container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 80px;
+    }
+    
+    #redes container2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 55px;
+    }
+    
+    #redes a {
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        flex-flow: column;
+        margin-right: 13px;
+        font-size: 20px;
+        color: #FFFFFF;
+        margin-top: -20px;
+        text-decoration: none;
+    }
+    
+    #redes i{
+        margin-right: -50px;
+    }
+
+    #numail {
+        margin-top: 100px;
+        margin-bottom: 40px;
+        margin-left: -240px;
+    }
+
+    #numail #email {
+        margin-left: -80px;
+        margin-top: -20px;
+    }
+    
+    .cnpjright {
+        margin-left: 21px;
+        color: #345e9c;
+        margin-top: 15px;
+        font-size: 13px;
+        margin-left: 20px;
+        width: 95%;
+        padding-bottom: 15px;
+    }
+}
+
+
+
+@media (max-width: 700px){
+    .navbar {
+        font-size: 14px;
+    }
+
+    .navbar ul{
+        gap: 15px;
+        margin-right: -20px;
+        margin-top: 10px;
+    }
+
+    .navbar button{
+        font-size: 12px;
+        width: 100px;
+        height: 25px;
+        margin-right: 30px;
+    }
+
+    #logolimpo {
+        width: 45px;
+        height: 45px;
+        margin-left: -15px;
+        margin-right: -40px;
+    }
+
+    .botoes{
+        gap: 10px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .downdrop {
+        width:110px;
+        position: absolute;
+        opacity: 1;
+        background-color: #5597FA;
+        margin-right: -40px;
+        color: #FFFFFF;
+        border: 2px solid #FFFFFF;
+        text-align: center;
+        margin-top: 10px;
+        transform: translateY(20px);
+        max-height: 300px;
+        display: none;
+        justify-content: center;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .downdrop p{
+        padding-bottom: 15px;
+        padding-top: 15px;
+        transform: translateX(-45px);
+        width: 100px;
+        margin-left: 25px;
+    }
+    
+    .downdrop hr{
+        width: 100px;
+        margin-left: 15px;
+        border: 1px solid #ffffff;
+        transform: translateX(-35.5px);
+    }
+
+    .centerdrop {
+        margin-left: -5px;
+    }
+
+    .bluesect {
+        margin-left: -20px;
+    }
+
+    #estatisticas{
+        height: 600px;
+        width: 100%;
+    }
+
+    #barrazul {
+        flex-flow: column;
+        width: 100%;
+        height: 100%;
+
+    }
+
+    #barrazul div {
+        margin-left: 50px;
+    }
+
+    #barrazul i{
+        height: 50px;
+        font-size: 50px;
+        left: 130px;
+        margin-bottom: -40px;
+    }
+
+    #barrazul strong{
+        font-size: 22px;
+        margin-top: 30px;
+    }
+
+    .ri-group-fill {
+        transform: translateX(24px);
+    }
+
+    .ri-emotion-laugh-fill {
+        transform: translateX(-2px);
+    }
+
+    #curiosidades {
+        height: 800px;
+        margin-top: 100px;
+    }
+
+    #missao {
+        flex-flow: column;
+        width: 700px;
+        height: 1000px;
+        padding-top: 100px;
+        margin-top: -100px;
+    }
+
+    #missao *{
+        margin-left: 10px;
+    }
+
+    #missao div{
+        margin-top: 50px;
+    }
+
+    #missao p {
+        font-size: 15px;
+        margin-bottom: 50px;
+        width: 380px;
+        margin-left: -40px;
+    }
+
+    #equipe h1 {
+        color: #5597FA;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 35px;
+        padding-top: 73px;
+        padding-bottom: 115px;
+    }
+    
+    #quatro {
+        background-color: #FFFFFF;
+        height: 629.5px;
+        font-family: Inter;
+        margin-top: 300px;
+    }
+
+    #quatro p{
+        display: inline-block;
+    }
+    
+    #fotogrupo {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        font-size: 17px;
+        gap: -580px;
+        margin-top: -50px;
+    }
+    
+    #fotogrupo p{
+        width: 400px;
+    }
+    
+    #fotogrupo img {
+        width: 400px;
+        height: 250px;
+        border-radius: 5px;
+        margin-bottom: 50px;
+    }
+
+    #cinco {
+        background-color: #FFFFFF;
+        height: 652px;
+        font-family: Inter;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 600px;
+    }
+    
+    #servicos {
+        color: #5597FA;
+        text-align: center;
+        margin-bottom: 73px;
+    }
+    
+    #servcards {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        gap: 120px;
+    }
+    
+    #servcards div{
+        width: 254px;
+        height: 253px;
+        border: 2px solid #5597FA;
+        box-shadow: 0px 0px 30px rgb(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+    
+    #servcards h1{
+        font-size: 20px;
+        color: #5597FA;
+    }
+    
+    #servcards p{
+        font-size: 12px;
+        width: 200px;
+        height: 95px;
+        text-align: center;
+    }
+    
+    #servcards div:hover{
+        width: 274px;
+        height: 273px;
+        margin-left: -100px;
+        margin-right: -100px;
+        margin-bottom: -10px;
+        margin-top: -10px;
+        box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+    #rodape {
+        height: 170px;
+        font-family: Archivo;
+        color: #ffffff;
+        background-color: #5597FA;
+        font-size: 17px;
+        margin-top: 300px;
+        height: 100%;
+    }
+    
+    #rodape h1{
+        margin-left: 33px;
+        padding-top: 20px;
+        margin-bottom: -20px;
+        font-size: 25px;
+    }
+    
+    #redes {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        font-family: Inter;
+        margin-left: -240px;
+        margin-top: 100px;
+    }
+    
+    #redes container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 50px;
+    }
+    
+    #redes container2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-flow: column;
+        margin-left: -60px;
+    }
+    
+    #redes a {
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        flex-flow: column;
+        margin-right: 13px;
+        font-size: 20px;
+        color: #FFFFFF;
+        margin-top: -20px;
+        text-decoration: none;
+    }
+    
+    #redes i{
+        margin-right: -50px;
+    }
+
+    #numail {
+        margin-top: 100px;
+        margin-bottom: 40px;
+        margin-left: -240px;
+    }
+
+    #numail #email {
+        margin-left: -35px;
+        margin-top: -120px;
+    }
+    
+    .cnpjright {
+        margin-left: 21px;
+        color: #345e9c;
+        margin-top: 15px;
+        font-size: 13px;
+        margin-left: 20px;
+        width: 95%;
+        padding-bottom: 15px;
+    }
+}
+
+@media (max-width: 600px){
+    body{
+        overflow-x: hidden;
+    }
+
+    .navbar {
+        font-size: 12px;
+    }
+
+    .navbar ul{
+        display: none;
+        gap: 10px;
+        margin-right: -20px;
+        margin-top: 10px;
+    }
+
+    .navbar button{
+        font-size: 14px;
+        width: 100px;
+        height: 30px;
+        margin-right: 30px;
+    }
+
+    #logolimpo {
+        width: 45px;
+        height: 45px;
+        margin-left: -15px;
+        margin-right: -45px;
+    }
+
+    .botoes{
+        gap: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .downdrop {
+        width: 100px;
+        position: absolute;
+        opacity: 1;
+        background-color: #5597FA;
+        margin-right: -40px;
+        color: #FFFFFF;
+        border: 2px solid #FFFFFF;
+        text-align: center;
+        margin-top: 10px;
+        transform: translateY(20px);
+        max-height: 300px;
+        display: none;
+        justify-content: center;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .downdrop p{
+        padding-bottom: 15px;
+        padding-top: 15px;
+        transform: translateX(-45px);
+        width: 90px;
+        margin-left: 30px;
+    }
+    
+    .downdrop hr{
+        width: 90px;
+        margin-left: 20px;
+        border: 1px solid #ffffff;
+        transform: translateX(-35.5px);
+    }
+
+    .centerdrop {
+        margin-left: -5px;
+    }
+
+    .bluesect {
+        margin-left: -40px;
+    }
+    .bluesect h1{
+        font-size: 120px;
+    }
+
+    #estatisticas{
+        height: 600px;
+        width: 100%;
+    }
+
+    #barrazul {
+        flex-flow: column;
+        width: 100%;
+        height: 100%;
+
+    }
+
+    #barrazul div {
+        margin-left: 50px;
+    }
+
+    #barrazul i{
+        height: 50px;
+        font-size: 50px;
+        left: 130px;
+        margin-bottom: -40px;
+    }
+
+    #barrazul strong{
+        font-size: 22px;
+        margin-top: 30px;
+    }
+
+    .ri-group-fill {
+        transform: translateX(24px);
+    }
+
+    .ri-emotion-laugh-fill {
+        transform: translateX(-2px);
+    }
+
+    #curiosidades {
+        height: 800px;
+        margin-top: 100px;
+    }
+
+    #missao {
+        flex-flow: column;
+        width: 600px;
+        height: 1100px;
+        padding-top: 100px;
+        margin-top: -100px;
+    }
+
+    #missao *{
+        margin-left: 10px;
+    }
+
+    #missao div{
+        margin-top: 50px;
+    }
+
+    #missao p {
+        font-size: 14px;
+        margin-bottom: 50px;
+    }
+
+    #equipe h1 {
+        color: #5597FA;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 35px;
+        padding-top: 73px;
+        padding-bottom: 115px;
+    }
+    
+    #quatro {
+        background-color: #FFFFFF;
+        height: 629.5px;
+        font-family: Inter;
+        margin-top: 390px;
+    }
+
+    #quatro p{
+        display: inline-block;
+    }
+    
+    #fotogrupo {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        font-size: 17px;
+        gap: -580px;
+        margin-top: -50px;
+    }
+    
+    #fotogrupo p{
+        width: 400px;
+    }
+    
+    #fotogrupo img {
+        width: 400px;
+        height: 250px;
+        border-radius: 5px;
+        margin-bottom: 50px;
+    }
+
+    #cinco {
+        background-color: #FFFFFF;
+        height: 652px;
+        font-family: Inter;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 600px;
+    }
+    
+    #servicos {
+        color: #5597FA;
+        text-align: center;
+        margin-bottom: 73px;
+    }
+    
+    #servcards {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        gap: 120px;
+    }
+    
+    #servcards div{
+        width: 254px;
+        height: 253px;
+        border: 2px solid #5597FA;
+        box-shadow: 0px 0px 30px rgb(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+    
+    #servcards h1{
+        font-size: 20px;
+        color: #5597FA;
+    }
+    
+    #servcards p{
+        font-size: 12px;
+        width: 200px;
+        height: 95px;
+        text-align: center;
+    }
+    
+    #servcards div:hover{
+        width: 274px;
+        height: 273px;
+        margin-left: -100px;
+        margin-right: -100px;
+        margin-bottom: -10px;
+        margin-top: -10px;
+        box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+    #rodape {
+        height: 170px;
+        font-family: Archivo;
+        color: #ffffff;
+        background-color: #5597FA;
+        font-size: 17px;
+        margin-top: 300px;
+        height: 100%;
+    }
+    
+    #rodape h1{
+        margin-left: 33px;
+        padding-top: 20px;
+        margin-bottom: -20px;
+        font-size: 25px;
+    }
+    
+    #redes {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        font-family: Inter;
+        margin-left: -260px;
+        margin-top: 100px;
+    }
+    
+    #redes container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+    
+    #redes container2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-flow: column;
+    }
+    
+    #redes a {
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        flex-flow: column;
+        margin-right: 13px;
+        font-size: 20px;
+        color: #FFFFFF;
+        margin-top: -20px;
+        text-decoration: none;
+    }
+    
+    #redes i{
+        margin-right: -50px;
+    }
+
+    #numail {
+        margin-top: 100px;
+        margin-bottom: 40px;
+        margin-right: -50px;
+    }
+
+    #numail #email {
+        margin-left: -30px;
+        margin-top: -140px;
+    }
+    
+    .cnpjright {
+        margin-left: 21px;
+        color: #345e9c;
+        margin-top: 15px;
+        font-size: 13px;
+        margin-left: 20px;
+        width: 95%;
+        padding-bottom: 15px;
+    }
+}
+
+@media (max-width: 500px){
+    body{
+        overflow-x: hidden;
+    }
+
+    .navbar {
+        font-size: 11px;
+    }
+
+    .navbar ul{
+        display: none;
+        gap: 10px;
+        margin-right: -20px;
+        margin-top: 10px;
+    }
+
+    .navbar button{
+        font-size: 14px;
+        width: 100px;
+        height: 30px;
+        margin-right: 30px;
+    }
+
+    #logolimpo {
+        width: 45px;
+        height: 45px;
+        margin-left: -15px;
+        margin-right: -45px;
+    }
+
+    .botoes{
+        gap: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .downdrop {
+        width: 90px;
+        position: absolute;
+        opacity: 1;
+        background-color: #5597FA;
+        margin-right: -40px;
+        color: #FFFFFF;
+        border: 2px solid #FFFFFF;
+        text-align: center;
+        margin-top: 10px;
+        transform: translateY(20px);
+        max-height: 300px;
+        display: none;
+        justify-content: center;
+        text-align: center;
+        border-radius: 5px;
+    }
+
+    .downdrop p{
+        padding-bottom: 15px;
+        padding-top: 15px;
+        transform: translateX(-45px);
+        width: 80px;
+        margin-left: 35px;
+    }
+    
+    .downdrop hr{
+        width: 80px;
+        margin-left: 25px;
+        border: 1px solid #ffffff;
+        transform: translateX(-35.5px);
+    }
+
+    .centerdrop {
+        margin-left: -5px;
+    }
+
+    .bluesect {
+        margin-left: -60px;
+    }
+
+    .bluesect h1{
+        font-size: 110px;
+    }
+
+    #estatisticas{
+        height: 600px;
+        width: 100%;
+    }
+
+    #barrazul {
+        flex-flow: column;
+        width: 100%;
+        height: 100%;
+
+    }
+
+    #barrazul div {
+        margin-left: 50px;
+    }
+
+    #barrazul i{
+        height: 50px;
+        font-size: 50px;
+        left: 130px;
+        margin-bottom: -40px;
+    }
+
+    #barrazul strong{
+        font-size: 22px;
+        margin-top: 30px;
+    }
+
+    .ri-group-fill {
+        transform: translateX(24px);
+    }
+
+    .ri-emotion-laugh-fill {
+        transform: translateX(-2px);
+    }
+
+    #curiosidades {
+        height: 800px;
+    }
+
+    #missao {
+        flex-flow: column;
+        width: 500px;
+        height: 900px;
+        padding-top: 100px;
+    }
+
+    #missao *{
+        margin-left: 10px;
+    }
+
+    #missao p {
+        font-size: 10px;
+        margin-bottom: 50px;
+        width: 370px;
+    }
+
+    #equipe h1 {
+        color: #5597FA;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 35px;
+        padding-top: 73px;
+        padding-bottom: 115px;
+    }
+    
+    #quatro {
+        background-color: #FFFFFF;
+        height: 629.5px;
+        margin-top: 200px;
+        font-family: Inter;
+    }
+
+    #quatro p{
+        display: inline-block;
+    }
+    
+    #fotogrupo {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        font-size: 17px;
+        gap: -580px;
+        margin-top: -50px;
+    }
+    
+    #fotogrupo p{
+        width: 400px;
+    }
+    
+    #fotogrupo img {
+        width: 400px;
+        height: 250px;
+        border-radius: 5px;
+        margin-bottom: 50px;
+    }
+
+    #cinco {
+        background-color: #FFFFFF;
+        height: 652px;
+        font-family: Inter;
+        font-size: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 600px;
+    }
+    
+    #servicos {
+        color: #5597FA;
+        text-align: center;
+        margin-bottom: 73px;
+    }
+    
+    #servcards {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        gap: 120px;
+    }
+    
+    #servcards div{
+        width: 254px;
+        height: 253px;
+        border: 2px solid #5597FA;
+        box-shadow: 0px 0px 30px rgb(0, 0, 0, 0.5);
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-flow: column;
+        cursor: pointer;
+        border-radius: 5px;
+        transition: all 0.3s ease;
+    }
+    
+    #servcards h1{
+        font-size: 20px;
+        color: #5597FA;
+    }
+    
+    #servcards p{
+        font-size: 12px;
+        width: 200px;
+        height: 95px;
+        text-align: center;
+    }
+    
+    #servcards div:hover{
+        width: 274px;
+        height: 273px;
+        margin-left: -100px;
+        margin-right: -100px;
+        margin-bottom: -10px;
+        margin-top: -10px;
+        box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+    #rodape {
+        height: 170px;
+        font-family: Archivo;
+        color: #ffffff;
+        background-color: #5597FA;
+        font-size: 17px;
+        margin-top: 300px;
+        height: 100%;
+    }
+    
+    #rodape h1{
+        margin-left: 33px;
+        padding-top: 20px;
+        margin-bottom: -20px;
+        font-size: 25px;
+    }
+    
+    #redes {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        font-family: Inter;
+        margin-left: -240px;
+        margin-top: 70px;
+    }
+    
+    #redes container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+    
+    #redes container2 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-flow: column;
+    }
+    
+    #redes a {
+        display: flex;
+        justify-content: center;
+        align-self: center;
+        flex-flow: column;
+        margin-right: 13px;
+        font-size: 20px;
+        color: #FFFFFF;
+        margin-top: -20px;
+        text-decoration: none;
+    }
+    
+    #redes i{
+        margin-right: 0px;
+    }
+
+    #numail {
+        margin-top: 100px;
+        margin-bottom: 40px;
+        margin-right: -50px;
+    }
+
+    #numail #email {
+        margin-left: -30px;
+        margin-top: -140px;
+    }
+    
+    .cnpjright {
+        margin-left: 21px;
+        color: #345e9c;
+        margin-top: 15px;
+        font-size: 13px;
+        margin-left: 20px;
+        width: 95%;
+        padding-bottom: 15px;
+    }
+}
