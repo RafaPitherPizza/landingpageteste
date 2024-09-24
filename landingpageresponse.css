@@ -2099,3 +2099,13 @@
         padding-bottom: 15px;
     }
 }
+
+@media (max-width: 430px) {
+    .bluesect h1{
+        font-size: 88px;
+    }
+    
+    .bluesect p{
+        font-size: 25px;
+    }
+}

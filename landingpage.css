@@ -50,7 +50,7 @@ body {
     justify-content: space-around;
     align-items: center;
     padding-top: 20px;
-    position: sticky;
+    position: fixed;
     top: 0;
     width: 100%;
     padding-bottom: 20px;
@@ -185,7 +185,7 @@ body {
     width: 90%;
     height: max-content;
     align-items: center;
-    padding-top: 35px;
+    padding-top: 115px;
     transition: all 0.2s ease;
 }
 
@@ -415,82 +415,6 @@ body {
     box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
 }
 
-/* Sexta seção (carrossel)
-
-#carrossel{
-    text-align: center;
-}
-
-#carrossel h1{
-    font-family: Inter;
-    font-size: 46px;
-    color: #5597FA;
-    margin-bottom: -30px;
-}
-
-#carrossel h2{
-    font-family: Inter;
-    font-size: 40px;
-    color: #5597FA;
-}
-
-.conteiner {
-    border: solid black 2px;
-    position: relative;
-    max-width: 50%;
-    height: 400px;
-    margin: auto;
-    overflow: hidden;
-    border: 2px solid #ddd;
-    border-radius: 10px;
-    margin-bottom: 7%;
-    border: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.conteiner img {
-    max-width: 30%; 
-    max-height: 80%;
-    display: none;
-    transition: step-end 0.5s;
-}
-
-.conteiner img.active {
-    display: block;
-    opacity: 1;
-    transition: 5s ease-in;
-}
-
-.conteiner .prev,
-.conteiner .next {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #5597FA;
-    border: none;
-    padding: 10px;
-    cursor: pointer;
-    border-radius: 50%;
-    font-size: 100px;
-}
-
-.conteiner .prev {
-    left: 10px;
-}
-
-.conteiner .next {
-    right: 10px;
-}
-
-.conteiner .prev:focus,
-.conteiner .next:focus {
-    outline: none;
-    background-color: rgba(0, 0, 0, 0.8);
-} */
-
-/* Rodapé */
 #rodape {
     height: 170px;
     font-family: Archivo;
