@@ -1,5 +1,6 @@
 html {
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 ::-webkit-scrollbar {
@@ -219,7 +220,7 @@ body {
     margin-bottom: -100px;
     margin-top: 100px;
     cursor: pointer;
-    width: 600px;
+    width: 100%;
     transition: all 0.8s ease;
     gap: 30px;
 }
@@ -245,7 +246,7 @@ body {
     align-items: center;
     color: #FFFFFF;
     font-family: Inter;
-    margin-left: -50px;
+    margin-left: -100px;
     padding-left: 7%;
     padding-right: 3.3%;
     position: relative;
@@ -316,6 +317,7 @@ body {
     font-family: Inter;
 }
 
+
 #fotogrupo {
     display: flex;
     justify-content: space-evenly;
@@ -339,7 +341,7 @@ body {
     justify-content: space-evenly;
     align-items: center;
     font-size: 17px;
-    gap: -580px;
+    margin-top: 100px;
 }
 
 #fotogrupo2 p{
@@ -348,7 +350,6 @@ body {
 
 #fotogrupo2 img {
     width: 498px;
-    height: 311px;
     border-radius: 5px;
 }
 
@@ -362,6 +363,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 400px;
 }
 
 #servicos {

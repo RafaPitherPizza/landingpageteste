@@ -1,22 +1,16 @@
 // DROPDOWN -------------------------------------------------------------------------------------------
-    // Obtenção dos elementos
     const downdropElements = document.getElementsByClassName('downdrop');
     const underpElements = document.getElementsByClassName('underp');
     const underdropElements = document.getElementsByClassName('underdrop');
 
-    // Função para dropdown
     const toggleDropdown = (index, show) => {
-        const display = show ? 'flex' : 'none';
         const transform = show ? 'translateY(0px)' : '';
         const width = show ? '100%' : '0';
 
-        downdropElements[index].style.display = display;
         underpElements[index].style.transform = transform;
-        underpElements[index].style.display = show ? 'block' : 'none';
         underdropElements[index].style.width = width;
     };
 
-    // Funções específicas
     const dropdown = () => toggleDropdown(0, true);
     const dropdownf = () => toggleDropdown(0, false);
 
