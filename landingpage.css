@@ -8,7 +8,7 @@ html {
 }
 
 ::-webkit-scrollbar-track {
-    background: #ffffff; 
+    background: transparent; 
 }
 
 ::-webkit-scrollbar-thumb {
@@ -509,7 +509,7 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     font-family: Inter;
-    margin-left: -35px;
+    margin-left: -175px;
     margin-top: 50px;
 }
 
