@@ -94,6 +94,10 @@
         width: 450px;
     }
 
+    #missao {
+        margin-left: -90px;
+    }
+
     #redes container{
         margin-left: 180px;
     }
@@ -422,6 +426,16 @@
         box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
     }
 
+    #ods{
+        margin-top: 500px;
+        img{
+            width: 45%;
+        }
+        p{
+            width: 80%;
+        }
+    }
+
     #rodape {
         height: 170px;
         font-family: Archivo;
@@ -682,6 +696,16 @@
         margin-bottom: -10px;
         margin-top: -10px;
         box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+    #ods{
+        margin-top: 500px;
+        img{
+            width: 45%;
+        }
+        p{
+            width: 80%;
+        }
     }
 
     #rodape {
@@ -998,6 +1022,16 @@
         margin-bottom: -10px;
         margin-top: -10px;
         box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+    #ods{
+        margin-top: 350px;
+        img{
+            width: 65%;
+        }
+        p{
+            width: 80%;
+        }
     }
 
     #rodape {
@@ -1338,6 +1372,16 @@
         box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
     }
 
+    #ods{
+        margin-top: 350px;
+        img{
+            width: 65%;
+        }
+        p{
+            width: 75%;
+        }
+    }
+
     #rodape {
         height: 170px;
         font-family: Archivo;
@@ -1556,7 +1600,7 @@
     }
 
     #missao p {
-        font-size: 14px;
+        font-size: 17px;
         margin-bottom: 50px;
     }
 
@@ -1680,6 +1724,20 @@
         margin-bottom: -10px;
         margin-top: -10px;
         box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+    #ods{
+        margin-top: 400px;
+        img{
+            width: 65%;
+        }
+        p{
+            text-align: center;
+            width: 70%;
+        }
+        a{
+            font-size: 18px;
+        }
     }
 
     #rodape {
@@ -1885,38 +1943,38 @@
     #missao {
         flex-flow: column;
         width: 500px;
-        height: 900px;
+        height: 1000px;
         padding-top: 100px;
     }
 
     #missao *{
-        margin-left: 10px;
+        margin-right: 50px;
     }
 
     #missao p {
-        font-size: 10px;
+        font-size: 15px;
         margin-bottom: 50px;
-        width: 370px;
+        width: 340px;
     }
 
-    #equipe h1 {
-        color: #5597FA;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 35px;
-        padding-top: 73px;
-        padding-bottom: 115px;
+    #missao h1 {
+        width: 100%;
+    }
+
+    #missao img{
+        margin-right: 130px;
     }
     
     #quatro {
         background-color: #FFFFFF;
         height: 629.5px;
-        margin-top: 200px;
+        margin-top: 300px;
         font-family: Inter;
     }
 
     #quatro p{
+        font-size: 15px;
+        width: 250px;
         display: inline-block;
     }
     
@@ -1931,11 +1989,11 @@
     }
     
     #fotogrupo p{
-        width: 400px;
+        width: 300px;
     }
     
     #fotogrupo img {
-        width: 400px;
+        width: 350px;
         height: 250px;
         border-radius: 5px;
         margin-bottom: 50px;
@@ -1952,11 +2010,11 @@
     }
     
     #fotogrupo2 p{
-        width: 400px;
+        width: 300px;
     }
     
     #fotogrupo2 img {
-        width: 400px;
+        width: 350px;
         border-radius: 5px;
         margin-top: 100px;
         margin-bottom: 50px;
@@ -2020,6 +2078,23 @@
         margin-bottom: -10px;
         margin-top: -10px;
         box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
+    }
+
+    #ods{
+        margin-top: 500px;
+        img {
+            width: 60%;
+        }
+        h1{
+            font-size: 35px;
+        }
+        p{
+            text-align: center;
+            width: 60%;
+        }
+        a{
+            font-size: 18px;
+        }
     }
 
     #rodape {

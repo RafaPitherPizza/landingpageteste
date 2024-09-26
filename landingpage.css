@@ -277,7 +277,7 @@ body {
     height: 528px;
     justify-content: space-around;
     align-items: center;
-    margin-left: -99px;
+    margin-left: -120px;
     background-color: #5597FA;
     padding-right: 1.25%;
     transform: translateX(80px);
@@ -309,6 +309,7 @@ body {
     font-size: 48px;
     padding-top: 73px;
     padding-bottom: 115px;
+    text-align: center;
 }
 
 #quatro {
@@ -414,6 +415,46 @@ body {
     margin-top: -100px;
     box-shadow: 0px 0px 40px rgb(0, 0, 0, 0.);
 }
+
+/* Sexta seção  */
+
+#ods{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-family: Inter;
+    img {
+        width: 400px;
+        border: 2px solid #5597FA;
+        box-shadow: 0px 0px 30px rgb(0, 0, 0, 0.5);
+    }
+    h1{
+        font-size: 48px;
+        color: #5597FA;
+        margin-bottom: 100px;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+        width: 40%;
+        font-size: 22px;
+        margin-top: 75px;
+    }
+    a{
+        font-size: 18px;
+        margin-top: 10px;
+        color: #5597FA;
+    }
+}
+
+#ods a:visited{
+    color: #345e9c;
+}
+
+/* Rodapé */
 
 #rodape {
     height: 170px;
