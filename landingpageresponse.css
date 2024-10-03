@@ -1598,3 +1598,16 @@
         font-size: 25px;
     }
 }
+
+@media (max-width: 420px) {
+    /* Terceira seção */
+    #curiosidades {
+        margin-right: 50px;
+        p{
+            margin-left: -70px;
+        }
+        strong {
+            margin-left: -50px;
+        }
+    }
+}
