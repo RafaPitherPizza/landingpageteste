@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../SOP"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../../Documentos/GitHub"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DS1"
+	}
+}

@@ -384,7 +384,6 @@ body {
     font-family: Inter;
     img {
         width: 400px;
-        border: 2px solid #5597FA;
     }
     h1{
         font-size: 48px;
@@ -469,4 +468,14 @@ body {
     margin-left: 33px;
     color: #345e9c;
     margin-top: 25px;
+}
+
+#infosOlimpo{
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+    width: 97%;
+    a{
+        margin-top: 40px;
+        text-align: end;
+    }
 }

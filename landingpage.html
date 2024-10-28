@@ -18,7 +18,7 @@
       rel="stylesheet"
     />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Inter&family=Inter:ital,wght@0,100..900;1,100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
@@ -71,7 +71,7 @@
             </div>
           </li>
         </a>
-        <a href="#odslink">
+        <a href="#ods">
           <li
             class="dropdown"
             onmouseenter="dropdown2()"
@@ -94,8 +94,8 @@
         </a>
       </ul>
       <div class="botoes" style="margin-right: -45px">
-        <button>Cadastre-se</button>
-        <button>Login</button>
+        <a href="HTML/cadastro.html"><button>Cadastre-se</button></a>
+        <a href="HTML/login.html"><button>Login</button></a>
       </div>
     </nav>
 
@@ -117,7 +117,6 @@
           <p>
             O Olimpo é um aplicativo criado por estudantes com idades entre 15 e 17 anos, engajados em cumprir os objetivos de desenvolvimento sustentável da ONU, com foco principal na ODS 11 que trata sobre Cidades e Comunidades Sustentáveis.
             O projeto que deu origem ao Olimpo, é de autoria da Germinare TECH, uma escola de negócios e tecnologia pertencente ao Instituto J&F, que forma desenvolvedores de sistemas e analistas de dados, e tem como um de seus maiores projetos, a criação coletiva de aplicativos que resolvam problemas reais.
-
           </p>
         </div>
         <div id="divMissao">
@@ -190,7 +189,7 @@
             </p>
           </div>
           <div>
-            <img src="images/Shopping Bag.png" alt="" />
+            <img src="images/Shopping%20Bag.png" alt="" />
             <h1>Compra e venda</h1>
             <p>
               O Olimpo também promove um processo de compra e venda mais dinâmico e sustentável! Onde há o incentivo a comerciantes dentro de sua  própria comunidade, bem como promove a venda de itens já não mais úteis aos moradores.
@@ -201,7 +200,7 @@
     </section>
 
     <section id="ods">
-      <h1 id="odslink">Relação com a ODS 11</h1>
+      <h1>Relação com a ODS 11</h1>
       <img src="images/ODS11.jpg" alt="" />
       <p>
         O Objetivo de Desenvolvimento Sustentável de número 11, visa, até 2030: "Tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis". Sendo assim, com o Olimpo, promovemos espaços humanos mais participativos e integrados, juntando pessoas que se localizam próximas entre si. Estamos proporcionando práticas coletivas, abordando sobre mudanças na sociedade, no âmbito econômico, social e ambiental. 
@@ -245,15 +244,18 @@
           </a>
         </container2>
       </div>
-      <div style="margin-top: -3px">
-        <p class="cnpjright">
-          CNPJ XX. XXX. XXX/0001-XX / R. Irineu José Bordon, nº 335, Vila
-          Jaguara, São Paulo/SP - CEP 05120-060 - empresa do grupo J&F.
-        </p>
-        <p class="cnpjright" style="margin-top: 0">Copyright © 2024 Apollo</p>
+      <div id="infosOlimpo" style="margin-top: -3px">
+        <span>
+          <p class="cnpjright">
+            CNPJ XX. XXX. XXX/0001-XX / R. Irineu José Bordon, nº 335, Vila
+            Jaguara, São Paulo/SP - CEP 05120-060 - empresa do grupo J&F.
+          </p>
+          <p class="cnpjright" style="margin-top: 0">Copyright © 2024 Apollo</p>
+        </span>
+        <a href=""><i class="ri-lock-2-fill"></i></a>
       </div>
-      <a href=""><i class="ri-lock-2-fill"></i></a>
+      <br>
     </footer>
-    <script src="landingpage.js"></script>
+    <script src="JavaScript/landingpage.js"></script>
   </body>
 </html>
